@@ -1,6 +1,7 @@
 import random
 import string
 
+# edit for git change
 def generate_password(min_length, numbers=True, special_characters=True):
     letters = string.ascii_letters 
     digits = string.digits
